@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title=""  description="" roles="*" >
+        <siteMapNode url="icerik.aspx" title="Anasayfa"  description="" />        
+      <siteMapNode url="yerkontrol.aspx" title="Yer Kontrolü "  description=""  />
+      <siteMapNode url="biletsorgula.aspx" title="Bilet Sorgula"  description="" />
+      <siteMapNode url="kayit.aspx" title="Yeni Kayıt" description="" />
+  
+      <siteMapNode url="Secret/biletal.aspx" title="Bilet Al"  description="" roles="Agent,admin"/>
+      <siteMapNode url="Secret/biletiptal.aspx" title="Bilet İptali"  description="" roles="Agent,admin"/>
+      <siteMapNode url="Secret/sifredegis.aspx" title="Şifre Değiştir"  description="" roles="Agent,admin" />
+
+
+
+      <siteMapNode url="giris.aspx" title="Giriş Yap"  description=""   />
+      <siteMapNode url="cikisyap.aspx" title="Çıkış Yap"  description=""  />
+    </siteMapNode>
+</siteMap>
